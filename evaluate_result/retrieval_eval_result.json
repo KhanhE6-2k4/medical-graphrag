@@ -1,0 +1,20 @@
+{
+  "Fact Retrieval": {
+        "average_scores": {
+            "context_relevancy": 0.7433970856102003,
+            "evidence_recall": 0.8833069177331472
+        }
+    },
+    "Complex Reasoning": {
+        "average_scores": {
+            "context_relevancy": 0.6591355599214146,
+            "evidence_recall": 0.9000498955312315
+        }
+    },
+    "Contextual Summarize": {
+        "average_scores": {
+            "context_relevancy": 0.7569204152249135,
+            "evidence_recall": 0.906563179227539
+        }
+    }
+}

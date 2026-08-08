@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# This folder contains the evaluation data and should not be tracked by version control
+evaluate_data/
